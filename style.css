@@ -157,7 +157,6 @@ background-color: #111;
 .Contact{
   display: flex;
   flex-direction: column;
-  float: center;
   width: 50%;
   padding: 15px;
 }
