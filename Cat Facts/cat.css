@@ -1,0 +1,37 @@
+body {
+    background-color: #328f8a;
+    background-image: linear-gradient(45deg,#328f8a,#08ac4b);
+    font-family: "Roboto", sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+  h1{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-style: italic;
+    color: black;
+  }
+  .container, .button_container {
+    display: flex;
+    justify-content: center;
+  }
+  button{
+    font-family: "Roboto", sans-serif;
+    text-transform: uppercase;
+    background-color: #328f8a;
+    border: 0;
+    padding: 7px;
+    font-size: 14px;
+    transition: all 0.3 ease;
+    cursor: pointer;
+    border-radius: 12px;
+    color: black;
+  }
+  button:hover{
+    background-color: aquamarine;
+  }
+  .facts{
+    border: 2px solid black;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 20px;
+  }
