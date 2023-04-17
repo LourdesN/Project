@@ -156,6 +156,6 @@ background-color: #111;
 }
 .Contact{
   display: flex;
-  flex-direction: row;
+  flex-direction: column;
   position:center ;
 }
