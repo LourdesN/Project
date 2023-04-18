@@ -153,8 +153,8 @@ background-color: #111;
 }
 .column{
   display: block;
+  column-gap: normal;
   flex-direction: column;
-  float: center;
   width: 10%;
   padding: 15px;
 
