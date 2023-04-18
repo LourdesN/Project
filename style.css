@@ -15,9 +15,6 @@ li {
      width: 100%;
      z-index: 9;
   }
-
-
-  
   li {
     float: left;
   }
@@ -162,10 +159,9 @@ background-color: #111;
   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 .column{
-  display: flex;
   flex-direction: column;
   float: center;
-  width: 50%;
+  width: 10%;
   padding: 15px;
 
 }
