@@ -8,13 +8,6 @@ li {
     overflow: hidden;
     background-color: #333;
   }
-  .header{
-     position: sticky;
-     top: 0;
-     left: 0;
-     width: 100%;
-     z-index: 9;
-  }
   li {
     float: left;
   }
@@ -160,7 +153,7 @@ background-color: #111;
 }
 .column{
   flex-direction: column;
-  float: center;
+  float: left;
   width: 10%;
   padding: 15px;
 
