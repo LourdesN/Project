@@ -152,6 +152,7 @@ background-color: #111;
   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 .column{
+  display: block;
   flex-direction: column;
   float: center;
   width: 10%;
