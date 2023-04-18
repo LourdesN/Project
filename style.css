@@ -155,6 +155,5 @@ background-color: #111;
   font-size: large;
   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
   font-weight: bolder;
-  justify-content: space-between;
-  justify-content: space-around;
+ margin-left: auto;
 }
