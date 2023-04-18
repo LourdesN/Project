@@ -152,3 +152,8 @@ background-color: #111;
   text-align: center;
   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
+.column{
+  display: flex;
+  flex-direction: column;
+
+}
