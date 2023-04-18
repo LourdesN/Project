@@ -63,6 +63,10 @@ p{
     position:static;
     position: left;
   }
+  .resume{
+    background-color: whitesmoke;
+    color: palevioletred;
+  }
   button{
    border: groove; 
    font-style: italic;
@@ -80,12 +84,6 @@ p{
       float: left; 
     } 
     label:after { content: ": " }
-    .searchbox {
-      float: right;
-      }
-    .searchbox button:hover {
-        background: black;
-        }
       /* Make sure that padding behaves as expected */
 * {box-sizing:border-box}
 
