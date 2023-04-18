@@ -8,6 +8,11 @@ li {
     overflow: hidden;
     background-color: #333;
   }
+  .header{
+     position: sticky;
+  }
+
+
   
   li {
     float: left;
