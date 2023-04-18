@@ -155,5 +155,8 @@ background-color: #111;
 .column{
   display: flex;
   flex-direction: column;
+  float: left;
+  width: 50%;
+  padding: 15px;
 
 }
