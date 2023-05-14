@@ -161,3 +161,9 @@ background-color: #111;
     flex-direction: column;
   }
 }
+.column{
+  width: 100%;
+  padding: 15px;
+  display: table;
+  
+}
