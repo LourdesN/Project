@@ -107,9 +107,9 @@ a:link{
   color: palevioletred;
 }
 .flex-container{
-  margin: 120px auto;
+  margin: 100px auto;
   padding: 10px;
-  gap: 50px 100px;
+  gap: 50px 70px;
   display: flex;
   flex-direction: row;
   justify-content: space-evenly;
