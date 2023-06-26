@@ -129,7 +129,7 @@ a:link{
   margin-top: 20px;
 }
 .btn-default:hover {
-  background-color: grey;
+  color: grey;
 }
 .btn-default {
 background-color: #111;
